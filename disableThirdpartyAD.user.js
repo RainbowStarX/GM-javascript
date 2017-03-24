@@ -3,7 +3,7 @@
 // @namespace      disableThirdpartyAD.star
 // @author	       star
 // @description    禁止手机站点的第三方资源，当然你也可加入其它站点
-// downloadUrl     https://raw.githubusercontent.com/star/GM-javascript/master/disableThirdpartyAD.user.js
+// downloadUrl     https://raw.githubusercontent.com/RainbowStarX/GM-javascript/master/disableThirdpartyAD.user.js
 // @include        http://m.*
 // @include        http://wap.*
 // @include        https://m.*
